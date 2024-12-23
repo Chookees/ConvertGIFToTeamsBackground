@@ -1,0 +1,10 @@
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\bin\Debug\net8.0\ConvertGifToTeamsBackground.exe
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\bin\Debug\net8.0\ConvertGifToTeamsBackground.deps.json
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\bin\Debug\net8.0\ConvertGifToTeamsBackground.runtimeconfig.json
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\bin\Debug\net8.0\ConvertGifToTeamsBackground.dll
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\obj\Debug\net8.0\ConvertGifToTeamsBackground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\obj\Debug\net8.0\ConvertGifToTeamsBackground.AssemblyInfoInputs.cache
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\obj\Debug\net8.0\ConvertGifToTeamsBackground.AssemblyInfo.cs
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\obj\Debug\net8.0\ConvertGifToTeamsBackground.csproj.CoreCompileInputs.cache
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\obj\Debug\net8.0\ConvertGifToTeamsBackground.dll
+C:\Users\ArturB\Desktop\Projects\ConvertGifToTeamsBackground\ConvertGifToTeamsBackground\obj\Debug\net8.0\ConvertGifToTeamsBackground.genruntimeconfig.cache
